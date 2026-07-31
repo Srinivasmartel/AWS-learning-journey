@@ -1,5 +1,5 @@
 # DAY 01: 
-# Today I learnt the some basic cloud computing  and AWS concepts.
+## Today I learnt the some basic cloud computing  and AWS concepts.
 # Wt is could computing ?
 Cloud computing means using computing resources such as servers, storage, databases, and networking over the internet instead of buying and maintaining our own physical computers.
 Ex: Earlier, if a company wanted to build a website, It had to: Buy physical servers, Install operating systems, Set up networking, Maintain hardware
@@ -18,7 +18,7 @@ Services continue running even if one data center experiences an issue.
 AWS provides high security features such as encryption and identity management.
 ## Global Access:
 Applications can be deployed in different countries using AWS Regions.
-<img width="946" height="419" alt="image" src="https://github.com/user-attachments/assets/dc9cc311-43b0-4425-a095-658168b2c903" />
+<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/dc9cc311-43b0-4425-a095-658168b2c903" />
 
 
 # Cloud Service Models:
@@ -32,7 +32,7 @@ Ready to use software accessed through the internet.  No installation or server 
 1. Public Cloud:  Resources are owned and managed by cloud providers like AWS.
 Example: AWS ,Microsoft Azure, Google Cloud..    Most companies use the Public Cloud.
 2. Private Cloud: Infrastructure is dedicated to a single organization. Used when companies need higher security and complete control.  For Example: Banks and government organizations.
-3. Hybrid Cloud : A combination of Public Cloud and Private Cloud. Sensitive data remains in the Private Cloud while other applications run in the Public Cloud.     Many large enterprises use this model .
+3. Hybrid Cloud : A combination of Public Cloud and Private Cloud. Sensitive data remains in the Private Cloud while other applications run in the Public Cloud.  Many large enterprises use this model.
 4.Cummunity cloud: A Community Cloud is a cloud infrastructure shared by a group of organizations that have similar needs, security requirements, or business objectives. For example: Suppose five hospitals need to securely store and share patient records.
 # AWS Global Infrastructure : 
 A Region is a physical geographical location where AWS has multiple data centers for Examples: Mumbai ,North Virginia ,Singapore, London
