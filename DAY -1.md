@@ -1,2 +1,2 @@
-# DAY one 
-## Basic cloud computing and AWs
+# DAY 01
+## Basic cloud computing and AWS
