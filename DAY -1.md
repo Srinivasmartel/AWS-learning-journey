@@ -18,7 +18,7 @@ Services continue running even if one data center experiences an issue.
 AWS provides high security features such as encryption and identity management.
 ## Global Access:
 Applications can be deployed in different countries using AWS Regions.
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/dc9cc311-43b0-4425-a095-658168b2c903" />
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/dc9cc311-43b0-4425-a095-658168b2c903" />
 
 
 # Cloud Service Models:
