@@ -1,4 +1,4 @@
-# Today i lerant the S3(simple storege  service) and RDS.
+# Today i learnt the S3(simple storege  service) and RDS.
 ## I was covered all the basic cancepts in s3
 ## 1. Amazon S3 (Simple Storage Service)
 ⚪What is Amazon S3?
